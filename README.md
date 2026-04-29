@@ -7,6 +7,6 @@ DERS İÇERİKLERİ
    Video Okuma ve Yazma  
    Hazır Videoyu Okuma ve Yazma  
    Kameradan Video Kaydetme  
-   Görüntü Üzerine Geometrik Şekil Çizmek 
+   Görüntü Üzerine Geometrik Şekil Çizmek  
    Görüntü Üzerinde Fare Hareketleri  
    Görüntü Üzerinde Trackbar Kullanımı
