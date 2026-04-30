@@ -14,7 +14,7 @@ DERS İÇERİKLERİ
  Ders 02   
    Pikseller  
    ROI Kavramı  
-   Çerçeve Oluşturma  
-   Görüntü Toplama 
-   Görüntüde Bitsel İşlemler 
+   Çerçeve Oluşturma   
+   Görüntü Toplama   
+   Görüntüde Bitsel İşlemler   
    Renk Uzayı ve Dönüşümleri , Renkli Nesne Tespiti
