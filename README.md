@@ -10,7 +10,7 @@ DERS İÇERİKLERİ
    Kameradan Video Kaydetme  
    Görüntü Üzerine Geometrik Şekil Çizmek  
    Görüntü Üzerinde Fare Hareketleri  
-   Görüntü Üzerinde Trackbar Kullanımı
+   Görüntü Üzerinde Trackbar Kullanımı  
  Ders 02   
    Pikseller  
    ROI Kavramı  
