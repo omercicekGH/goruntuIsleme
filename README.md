@@ -17,4 +17,13 @@ DERS İÇERİKLERİ
    Çerçeve Oluşturma   
    Görüntü Toplama   
    Görüntüde Bitsel İşlemler   
-   Renk Uzayı ve Dönüşümleri , Renkli Nesne Tespiti
+   Renk Uzayı ve Dönüşümleri , Renkli Nesne Tespiti  
+ Ders 03  
+   Görüntüyü Yeniden Boyutlandırma , Öteleme ve Döndürme  
+   Afin Dönüşümü  
+   Perspektif Dönüşümü  
+   Perspektif Dönüşüm Uygulaması  
+   Eşikleme Kavramı ve Basit Eşikleme  
+   Basit Eşikleme Uygulaması  
+   
+   
