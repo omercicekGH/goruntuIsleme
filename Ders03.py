@@ -5,7 +5,7 @@ import cv2
 import numpy as np
 
 img1=cv2.imread("Desktop/goruntuIslemeKurs/1.jpeg")
-#resim okurken relative path (yakın yolu) kullansakta oluyor
+
 cv2.imshow("resim1",img1)
 
 print(img1.shape)
