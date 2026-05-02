@@ -25,7 +25,7 @@ DERS İÇERİKLERİ
    Perspektif Dönüşüm Uygulaması  
    Eşikleme Kavramı ve Basit Eşikleme  
    Basit Eşikleme Uygulaması   
- Ders 04
+ Ders 04  
    Otsu Eşikleme , Histogram Kavramı  
    Uyarlanabilir Eşikleme  
    Morfolojik Kavramlar ve İşlemler  
