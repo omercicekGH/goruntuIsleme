@@ -24,6 +24,14 @@ DERS İÇERİKLERİ
    Perspektif Dönüşümü  
    Perspektif Dönüşüm Uygulaması  
    Eşikleme Kavramı ve Basit Eşikleme  
-   Basit Eşikleme Uygulaması  
+   Basit Eşikleme Uygulaması   
+ Ders 04
+   Otsu Eşikleme , Histogram Kavramı  
+   Uyarlanabilir Eşikleme  
+   Morfolojik Kavramlar ve İşlemler  
+   Görünmezlik Pelerini Uygulaması  
+   Görüntü Bulanıklaştırma , Keskinleştirme , Filtre Oluşturma  
+ Ders 05  
+   
    
    
